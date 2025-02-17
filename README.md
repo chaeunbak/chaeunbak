@@ -23,8 +23,7 @@
 
 ### 🏆 Competitive Programming & Research
 <p align="left">
-  <img src="https://img.shields.io/badge/Baekjoon-000000?style=for-the-badge&logo=baekjoon&logoColor=white" />
-  <img src="https://img.shields.io/badge/KETTLE-A020F0?style=for-the-badge&logo=kettle&logoColor=white" />
+   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ohpoison)
 </p>
 
 ---
@@ -39,15 +38,16 @@
 ---
 
 ### 📚 Latest Projects & Research
-- 📝 [Your Research Paper Title](#) (Add your research link here)
+- 📝 [Your Research Paper Title](#) (not yet)
 - 🚀 [Your AI Project](#) (Link to an interesting project)
-- 📖 [Your Blog (if you have one)](#)
+- 📖 [Your Blog (if you have one)](not yet)
 
 ---
 
-### 🎵 Now Playing (Spotify)
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" />
+### 🎵 Now Playing: Bill Evans
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Rewm9k3kxwMDR5DJrMAYp)
+
+  
 </p>
 
 ---
@@ -55,6 +55,6 @@
 ### 📬 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pcw0900@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
