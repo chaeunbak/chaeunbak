@@ -23,7 +23,7 @@
 
 ### 🏆 Competitive Programming & Research
 <p align="left">
-   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ohpoison)
+   
 </p>
 
 ---
@@ -40,12 +40,12 @@
 ### 📚 Latest Projects & Research
 - 📝 [Your Research Paper Title](#) (not yet)
 - 🚀 [Your AI Project](#) (Link to an interesting project)
-- 📖 [Your Blog (if you have one)](not yet)
+- 📖 [Your Blog ((not yet))](#)
 
 ---
 
 ### 🎵 Now Playing: Bill Evans
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/6Rewm9k3kxwMDR5DJrMAYp)
+[![Bill Evans - Waltz for Debby](https://upload.wikimedia.org/wikipedia/en/0/0e/WaltzforDebby.jpg)](https://open.spotify.com/track/6Rewm9k3kxwMDR5DJrMAYp)
 
   
 </p>
