@@ -1,27 +1,60 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm an AI Researcher 👋</h1>
+<h3 align="center">Master's student in AI at Hallym University</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=highcontrast)
+### 🧑‍💻 About Me
+- 🎓 **AI Master's Student** at **Hallym University**
+- 🤖 Interested in **Natural Language Processing (NLP)** & **Computer Vision (CV)**
+- 🐍 Main Tech Stack: **Python**, **PyTorch**
+- 📫 How to reach me: your.email@example.com (Replace with yours)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react)
+### 🚀 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-0072C6?style=for-the-badge&logo=dialogflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComputerVision-008080?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
+---
 
+### 🏆 Competitive Programming & Research
+<p align="left">
+  <img src="https://img.shields.io/badge/Baekjoon-000000?style=for-the-badge&logo=baekjoon&logoColor=white" />
+  <img src="https://img.shields.io/badge/KETTLE-A020F0?style=for-the-badge&logo=kettle&logoColor=white" />
+</p>
 
-<!--
-**chaeunbak/chaeunbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Latest Projects & Research
+- 📝 [Your Research Paper Title](#) (Add your research link here)
+- 🚀 [Your AI Project](#) (Link to an interesting project)
+- 📖 [Your Blog (if you have one)](#)
+
+---
+
+### 🎵 Now Playing (Spotify)
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" />
+</p>
+
+---
+
+### 📬 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
