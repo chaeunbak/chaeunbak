@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=highcontrast" />
+  
 </p>
 
 ---
@@ -43,9 +43,6 @@
 - 📖 [Your Blog ((not yet))](#)
 
 ---
-
-### 🎵 Now Playing: Bill Evans
-[![Bill Evans - Waltz for Debby](https://upload.wikimedia.org/wikipedia/en/0/0e/WaltzforDebby.jpg)](https://open.spotify.com/track/6Rewm9k3kxwMDR5DJrMAYp)
 
   
 </p>
