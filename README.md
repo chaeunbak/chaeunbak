@@ -7,7 +7,7 @@
 - 🎓 **AI Master's Student** at **Hallym University**
 - 🤖 Interested in **Natural Language Processing (NLP)** & **Computer Vision (CV)**
 - 🐍 Main Tech Stack: **Python**, **PyTorch**
-- 📫 How to reach me: your.email@example.com (Replace with yours)
+- 📫 How to reach me: pcw0900@naver.com 
 
 ---
 
