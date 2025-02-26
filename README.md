@@ -8,7 +8,9 @@
 - 🤖 Interested in **Natural Language Processing (NLP)** & **Computer Vision (CV)**
 - 🐍 Main Tech Stack: **Python**, **PyTorch**
 - 📫 How to reach me: pcw0900@naver.com 
-
+## 🌍 Portfolio Website  
+🚀 **Check out my AI Research Portfolio:**  
+👉 [chaeunbak.github.io](https://chaeunbak.github.io)
 ---
 
 ### 🚀 Tech Stack & Tools
